@@ -16,7 +16,7 @@ Ready to simplify your embedded development workflow? In this guide, we'll demon
     - [INA219](https://www.ti.com/lit/ds/symlink/ina219.pdf?ts=1722403095948) - the current sensor board
 - Software
     - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html) - to generate the project with all the STM32 related libraries and initialized MCU’s peripheral
-    - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - to work on the code ad build the project
+    - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - to work on the code and build the project
 
 ## Generate Your driver
 
